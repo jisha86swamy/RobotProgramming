@@ -1,0 +1,15 @@
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\bin\Debug\net8.0\DevRobot.exe
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\bin\Debug\net8.0\DevRobot.deps.json
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\bin\Debug\net8.0\DevRobot.runtimeconfig.json
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\bin\Debug\net8.0\DevRobot.dll
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\bin\Debug\net8.0\DevRobot.pdb
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.AssemblyInfoInputs.cache
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.AssemblyInfo.cs
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.csproj.CoreCompileInputs.cache
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.sourcelink.json
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.dll
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\refint\DevRobot.dll
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.pdb
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\DevRobot.genruntimeconfig.cache
+C:\D\CODE\ROBOT\RobotProgramming\DevRobot\obj\Debug\net8.0\ref\DevRobot.dll
